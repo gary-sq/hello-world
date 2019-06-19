@@ -2,4 +2,6 @@
 Just another repo
 
 
-This is the edit I am making to save and learn things.
+
+This is my second attempt at editing the README file, this time the correct one was used.
+
